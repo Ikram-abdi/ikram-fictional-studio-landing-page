@@ -20,11 +20,11 @@ This is a landing page for Delani Studio a design studio where All aspects of ou
 - Bootstrap
 ---
 ## Known bugs
-There are no known bugs. Report any bug to the author @mutwirievansm@gmail.com
+There are no known bugs. Report any bug to the author @ikram.abdirahman@student.moringaschool.cim
 
 ---
 ## Authors and Contribution
-- The site is written by [**Evans Mutwiri**](https://github.com/EvansMutwiri).   
+- The site is written by [**IKRAM ABDIRAHMAN*](https://github.com/ikram-abdi).   
 - Contributions are welcome.  
 - To contribute just clone and push to your special branch.  
 
