@@ -20,7 +20,7 @@ This is a landing page for Delani Studio a design studio where All aspects of ou
 - Bootstrap
 ---
 ## Known bugs
-There are no known bugs. Report any bug to the author @ikram.abdirahman@student.moringaschool.cim
+There are no known bugs. Report any bug to the author @ikram.abdirahman@student.moringaschool.com
 
 ---
 ## Authors and Contribution
