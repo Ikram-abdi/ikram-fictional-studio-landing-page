@@ -5,8 +5,8 @@ create a landing page for a fictional studio using Bootstrap and jQuery
 This is a landing page for Delani Studio a design studio where All aspects of our software development process are employed. It showcases an about us section, the works and projects carried out and services provided.
 
 ---
-## Installation
-- click on this [live page.]( /)  to view the page functionality.
+
+-
 - Alternatively:
   -  Clone the repository to your local machine.
   -  Use a code editor preferably vscode  
@@ -24,10 +24,8 @@ There are no known bugs. Report any bug to the author @ikram.abdirahman@student.
 
 ---
 ## Authors and Contribution
-- The site is written by [**IKRAM ABDIRAHMAN*](https://github.com/ikram-abdi).   
-- Contributions are welcome.  
-- To contribute just clone and push to your special branch.  
-
----
+The site is written by [**IKRAM ABDIRAHMAN*](https://github.com/Ikram-abdi).   
+Contributions are welcome.  
+To contribute just clone and push to your special branch.  
 
 ### [License](LICENSE.MIT)
